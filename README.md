@@ -1,6 +1,6 @@
 # angular-login
 
-#### db.json 기동하는 방법 (cmd 창에서)
+#### 1. db.json 기동하는 방법 (cmd 창에서)
 ###### cd fake-json-server-login
 ###### json-server --watch db.json --port 3000
 ```
@@ -19,7 +19,7 @@ C:\fake-json-server-login>json-server --watch db.json --port 3000
 ###### 웹 브라우저에서 http://localhost:3000/users 확인하기 
 
 
-#### angular 서버 기동하는 방법 (cmd 창에서)
+#### 2. angular 서버 기동하는 방법 (cmd 창에서)
 ###### cd my-login-example
 ###### ng serve --open
 ```
