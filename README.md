@@ -4,7 +4,7 @@
 ##### cd fake-json-server-login
 ##### json-server --watch db.json --port 3000
 ```
-C:\Users\TopC-32457\Documents\workspace\angular-login\fake-json-server-login>json-server --watch db.json --port 3000
+C:\fake-json-server-login>json-server --watch db.json --port 3000
   \{^_^}/ hi!
   Loading db.json
   Done
